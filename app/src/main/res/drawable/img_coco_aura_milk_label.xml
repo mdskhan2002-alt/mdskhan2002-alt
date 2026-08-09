@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Creamy Ivory Coconut Milk Gradient Background -->
+    <path
+        android:pathData="M16,0 H184 A16,16 0 0 1 200,16 V184 A16,16 0 0 1 184,200 H16 A16,16 0 0 1 0,184 V16 A16,16 0 0 1 16,0 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="200"
+                android:endY="200"
+                android:type="linear">
+                <item
+                    android:color="#FFFDE7"
+                    android:offset="0.0" />
+                <item
+                    android:color="#FFF9C4"
+                    android:offset="0.5" />
+                <item
+                    android:color="#FBC02D"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Swirling waves (Cream texture) -->
+    <path
+        android:pathData="M0,130 Q50,110 100,140 T200,120 L200,200 L0,200 Z"
+        android:fillColor="#33FFFFFF" />
+
+    <path
+        android:pathData="M0,150 Q40,140 90,170 T200,150 L200,200 L0,200 Z"
+        android:fillColor="#66FFFFFF" />
+
+    <!-- Stylized Coconut Bowl/Half Silhouette -->
+    <!-- Outer Shell -->
+    <path
+        android:pathData="M60,95 C60,130 140,130 140,95 H60 Z"
+        android:fillColor="#5D4037" />
+
+    <!-- Inner Meat (Cream) -->
+    <path
+        android:pathData="M65,95 C65,124 135,124 135,95 H65 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Pure Water inside Coconut -->
+    <path
+        android:pathData="M72,95 C72,114 128,114 128,95 H72 Z"
+        android:fillColor="#E0F7FA" />
+
+    <!-- Coconut Palm Tree silhouette on top of the design -->
+    <path
+        android:pathData="M100,65 L100,95"
+        android:strokeColor="#5D4037"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M100,65 Q115,55 130,60"
+        android:strokeColor="#33691E"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M100,65 Q85,55 70,60"
+        android:strokeColor="#33691E"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M100,65 Q110,75 120,85"
+        android:strokeColor="#33691E"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M100,65 Q90,75 80,85"
+        android:strokeColor="#33691E"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+</vector>

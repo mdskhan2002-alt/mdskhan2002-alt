@@ -1,0 +1,6 @@
+{
+  "name": "CocoAura",
+  "description": "Full Digital Ecosystem for CocoAura Foods: Customer App, Admin Panel, Distributor Portal, Retailer Portal, ERP, CRM & AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

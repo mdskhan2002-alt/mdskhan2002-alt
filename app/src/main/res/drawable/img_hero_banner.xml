@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="400dp"
+    android:height="160dp"
+    android:viewportWidth="400"
+    android:viewportHeight="160">
+    
+    <!-- Background Gradient (Premium Deep Green to Tropical Teal) -->
+    <path
+        android:pathData="M0,0h400v160h-400z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="400"
+                android:endY="160"
+                android:type="linear">
+                <item
+                    android:color="#0B4B32"
+                    android:offset="0.0" />
+                <item
+                    android:color="#1B6D4A"
+                    android:offset="0.5" />
+                <item
+                    android:color="#2D9264"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Stylized Palm Leaf Wave 1 -->
+    <path
+        android:pathData="M250,160 C300,120 350,130 400,90 L400,160 Z"
+        android:fillColor="#15FFFFFF" />
+
+    <!-- Stylized Palm Leaf Wave 2 -->
+    <path
+        android:pathData="M180,160 C250,90 320,110 400,50 L400,160 Z"
+        android:fillColor="#0AFFFFFF" />
+
+    <!-- Stylized Golden Rays -->
+    <path
+        android:pathData="M400,0 L320,0 C340,30 370,50 400,60 Z"
+        android:fillColor="#15F1C40F" />
+        
+    <!-- Stylized Organic Circle 1 -->
+    <path
+        android:pathData="M40,30m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"
+        android:fillColor="#0DFFFFFF" />
+
+    <!-- Stylized Organic Circle 2 -->
+    <path
+        android:pathData="M350,30m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0"
+        android:fillColor="#05FFFFFF" />
+</vector>
