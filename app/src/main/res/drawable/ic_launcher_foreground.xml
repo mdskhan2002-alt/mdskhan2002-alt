@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Aura Glow (Outer Soft Circle) -->
+    <path
+        android:fillColor="#33F1C40F"
+        android:pathData="M54,54m-34,0a34,34 0 1,1 68,0a34,34 0 1,1 -68,0" />
+        
+    <!-- Aura Ring (Inner Accent Circle) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F1C40F"
+        android:strokeWidth="1.5"
+        android:pathData="M54,54m-28,0a28,28 0 1,1 56,0a28,28 0 1,1 -56,0" />
+
+    <!-- Palm leaves behind coconut -->
+    <path
+        android:fillColor="#27AE60"
+        android:pathData="M54,34 C58,26 70,24 74,28 C66,34 58,34 54,34 Z" />
+    <path
+        android:fillColor="#2ECC71"
+        android:pathData="M54,34 C48,25 36,22 32,26 C41,32 49,33 54,34 Z" />
+
+    <!-- Coconut Outer Shell (Dark Brown) -->
+    <path
+        android:fillColor="#5C4033"
+        android:pathData="M54,42 C63.941,42 72,50.059 72,60 C72,69.941 63.941,78 54,78 C44.059,78 36,69.941 36,60 C36,50.059 44.059,42 54,42 Z" />
+
+    <!-- Coconut Inner Meat (Coconut White/Cream) -->
+    <path
+        android:fillColor="#FDFBF7"
+        android:pathData="M54,46 C61.732,46 68,52.268 68,60 C68,67.732 61.732,74 54,74 C46.268,74 40,67.732 40,60 C40,52.268 46.268,46 54,46 Z" />
+
+    <!-- Coconut Center Water / Hollow (Pale Blue/Water) -->
+    <path
+        android:fillColor="#EAF2F8"
+        android:pathData="M54,51 C58.971,51 63,55.029 63,60 C63,64.971 58.971,69 54,69 C49.029,69 45,64.971 45,60 C45,55.029 49.029,51 54,51 Z" />
+</vector>

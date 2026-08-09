@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Premium Fresh Teal-Mint Gradient Background -->
+    <path
+        android:pathData="M16,0 H184 A16,16 0 0 1 200,16 V184 A16,16 0 0 1 184,200 H16 A16,16 0 0 1 0,184 V16 A16,16 0 0 1 16,0 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="200"
+                android:endY="200"
+                android:type="linear">
+                <item
+                    android:color="#E0F2F1"
+                    android:offset="0.0" />
+                <item
+                    android:color="#B2DFDB"
+                    android:offset="0.5" />
+                <item
+                    android:color="#80CBC4"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Stylized Palm Leaf Pattern -->
+    <path
+        android:pathData="M200,200 C150,150 120,180 80,100 C130,120 160,110 200,80 Z"
+        android:fillColor="#20FFFFFF" />
+
+    <path
+        android:pathData="M0,200 C50,130 80,160 120,70 C70,100 40,90 0,60 Z"
+        android:fillColor="#15FFFFFF" />
+
+    <!-- Premium Centered Glass Bottle Silhouette -->
+    <!-- Bottle cap -->
+    <path
+        android:pathData="M92,35 H108 V42 H92 Z"
+        android:fillColor="#00796B" />
+
+    <!-- Bottle neck -->
+    <path
+        android:pathData="M94,42 H106 V58 H94 Z"
+        android:fillColor="#26A69A" />
+
+    <!-- Bottle body -->
+    <path
+        android:pathData="M76,58 C76,58 74,68 74,74 V154 C74,160 79,165 85,165 H115 C121,165 126,160 126,154 V74 C126,68 124,58 124,58 Z"
+        android:fillColor="#4DFFFFFF" />
+
+    <!-- Bottle label (Coconut Wave Accent) -->
+    <path
+        android:pathData="M74,90 C84,95 116,85 126,90 V124 C116,119 84,129 74,124 Z"
+        android:fillColor="#00796B" />
+
+    <!-- Organic Leaf Graphic on Label -->
+    <path
+        android:pathData="M100,98 C108,98 112,105 112,112 C104,112 100,105 100,98 Z"
+        android:fillColor="#80CBC4" />
+    <path
+        android:pathData="M100,98 C92,98 88,105 88,112 C96,112 100,105 100,98 Z"
+        android:fillColor="#FFF" />
+
+</vector>
