@@ -1,5 +1,5 @@
 <# 💫 About Me:
-<br>md shahabuddin<br>mdskhan2002-alt · he/him<br>Hi there, I'm Shahabuddin 👋 Founder | Entrepreneur | AI Builder | Android App Developer I'm the founder of CocoAura Foods Private Limited, building a premium<br> 0 followers · 1 following<br>CocoAura Food Pvt<br>India<br>mdskhan2002@gmail.com<br>in/cocoaura-foods-private-limited-1b0240422<br>https://www.linkedin.com/in/mohammad-shahabuddin-887832343?utm_source=share_via&utm_content=profile&utm_medium=member_android<br>@CocoAuraFoodsPrivateLimited<br>cocoaurafood_pvt
+<br>md shahabuddin<br>mdskhan2002-alt · he/him<br>Hi there, I'm Shahabuddin 👋 Founder | Entrepreneur | AI Builder | Android App Developer I'm the founder of CocoAura Foods Private Limited, building a premium<br> 0 followers · 1 following<br>CocoAura Food Pvt<br>India<br>mdskhan2002@gmail.com<br>in/1b0240422<br>https://www.linkedin.com/in/mohammad-shahabuddin-887832343?utm_source=share_via&utm_content=profile&utm_medium=member_android<br>
 
 
 ## 🌐 Socials:
